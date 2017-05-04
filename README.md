@@ -12,3 +12,6 @@ Novice_wcsc27はUSIプロトコル準拠の将棋エンジンです。
 チェスプログラム Stockfish( https://github.com/official-stockfish/Stockfish )  
 4.評価関数形式  
 将棋プログラム Apery( https://github.com/HiraokaTakuya/apery )
+
+## 使用方法
+makeを行い、Apery形式の評価バイナリとPonanzaQuartette形式の定跡ファイルを生成された実行ファイルと同じところに配置してください。  
