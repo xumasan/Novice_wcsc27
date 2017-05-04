@@ -7,7 +7,7 @@ Novice_wcsc27はUSIプロトコル準拠の将棋エンジンです。
 1.局面構造、指し手生成  
 将棋プログラム PonanzaQuartette  
 2.探索  
-チェスプログラム Toga  　
+チェスプログラム Toga  
 3.置換表  
 チェスプログラム Stockfish( https://github.com/official-stockfish/Stockfish )  
 4.評価関数形式  
